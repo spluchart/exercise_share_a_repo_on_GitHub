@@ -7,6 +7,7 @@ Year: 1998
 Description: A Beautiful Mind (1998) is a biography of Nobel Prize-winning economist and mathematician John Forbes Nash, Jr. by Sylvia Nasar, professor of journalism at Columbia University. 
 An unauthorized work, it won the National Book Critics Circle Award in 1998 and was nominated for the Pulitzer Prize in biography. It inspired the 2001 film by the same name.
 Comments: I started this one some weeks ago. Very thorough, I almost gave up reading at one point. It gets more interesting when Nash joins Princeton. Now I love it!
+Wikipedia: https://en.wikipedia.org/wiki/A_Beautiful_Mind_(book)
 
 
 Title: "Apprenez à programmer en Python"

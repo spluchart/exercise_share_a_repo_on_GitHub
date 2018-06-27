@@ -1,8 +1,17 @@
-Welcome to my reading list. You will find here a list of books I would like to read:
+Welcome to my reading list. You will find here a list of books I enjoyed reading, or books I would like to read.
 
 Title: "A beautiful mind"
 Author: Sylvia Nasar
+Genre: biography
 Year: 1998
 Description: A Beautiful Mind (1998) is a biography of Nobel Prize-winning economist and mathematician John Forbes Nash, Jr. by Sylvia Nasar, professor of journalism at Columbia University. 
 An unauthorized work, it won the National Book Critics Circle Award in 1998 and was nominated for the Pulitzer Prize in biography. It inspired the 2001 film by the same name.
-Comments: I started this one some weeks ago. Very thorough, I almost gave up reading at one point. It gets more interesting when Nash joins Princeton. Now I love it! 
+Comments: I started this one some weeks ago. Very thorough, I almost gave up reading at one point. It gets more interesting when Nash joins Princeton. Now I love it!
+
+
+Title: "Apprenez à programmer en Python"
+Author: Vincent Le Goff
+Year: 2011
+Genre: programming
+Description: Introduction to the Python programming language for beginners. 
+Comments: Very well written, full of example and exercises, it is a must read for beginners! Note that the author is a blind person, which makes his performance in writing the book outstanding.
